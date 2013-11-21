@@ -5,7 +5,9 @@ This is a simple UIColor extension for Objective-C that allows you to get a UICo
 
 Simply import UIColorExtensions.h into the class and use it like this:
 
-    [UIColor colorFromHexString:@"#FFFFFF"];
+```objc
+[UIColor colorFromHexString:@"#FFFFFF"];
+```
 
 Couldn't be more simple.
 
